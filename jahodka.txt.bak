@@ -7,4 +7,8 @@ medzitym kontrolovat stav suboru lokalne
 pridane lokalne
 lokal 2
 ssh
-
+<<<<<<< HEAD
+local mess
+=======
+mess server
+>>>>>>> 33e27ddac234366fd82ff121c022f35367d2fc03
