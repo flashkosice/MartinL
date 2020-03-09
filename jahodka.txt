@@ -7,4 +7,4 @@ medzitym kontrolovat stav suboru lokalne
 pridane lokalne
 lokal 2
 ssh
-
+visual 
