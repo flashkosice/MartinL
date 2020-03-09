@@ -1,0 +1,6 @@
+Zmena na serveri
+Status 
+Fetch
+Status
+Pull
+medzitym kontrolovat stav suboru lokalne
