@@ -8,3 +8,6 @@ pridane lokalne
 lokal 2
 ssh
 visual 
+newline
+newline
+newline 3
