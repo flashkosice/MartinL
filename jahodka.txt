@@ -2,7 +2,7 @@ Zmena na serveri
 Status 
 Status
 Pull
-
+dsaf
 novy riadok !!!!!!!!!
 
 medzitym kontrolovat stav suboru lokalne
